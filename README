@@ -1,0 +1,2 @@
+Machine learning algorithm to predict if the passenger on the titanic survies the crash or not based on some real time data.
+The machine learning algorithms used are KNN algorithm and Perceptron algorithm.
